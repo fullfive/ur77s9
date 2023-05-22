@@ -1,0 +1,19 @@
+# 台灣流媒體
+payload:
+#台湾根域名判断
+  - DOMAIN-SUFFIX,.tw
+#Myvideo
+  - DOMAIN-SUFFIX,myvideo.net.tw
+#Catchplay
+  - DOMAIN-SUFFIX,catchplay.com
+  - DOMAIN-SUFFIX,ols-ww100-cp.akamaized.net
+# 4GTV
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,ftv.com.tw
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-KEYWORD,4gtv
+  - DOMAIN-SUFFIX,onead.com.tw
+# 台湾好
+  - DOMAIN-SUFFIX,skyking.com.tw
+  - DOMAIN-SUFFIX,hamifans.emome.net
